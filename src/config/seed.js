@@ -1,8 +1,8 @@
 /**
  * Populate DB with sample data on server start to disable, edit config.js, and set `seedDB: false`
  *
- * @author    Dennis Haulund Nielsen
- * @copyright Copyright (c) 2015, Dennis Haulund Nielsen
+ * @author    nodes-galactic
+ * @copyright Copyright (c) 2015, nodes-galactic
  * @license	  The MIT License {@link http://opensource.org/licenses/MIT}
  */
 'use strict';

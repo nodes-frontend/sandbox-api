@@ -1,8 +1,8 @@
 /**
  * An application configuration.
  *
- * @author    Dennis Haulund Nielsen
- * @copyright Copyright (c) 2015, Dennis Haulund Nielsen
+ * @author    nodes-galactic
+ * @copyright Copyright (c) 2015, nodes-galactic
  * @license	  The MIT License {@link http://opensource.org/licenses/MIT}
  */
 'use strict';
@@ -31,7 +31,7 @@ config.api = {
 
 // MongoDB settings
 config.mongodb = {
-    dbURI: 'mongodb://127.0.0.1:27017/DummyApi'
+    dbURI: 'mongodb://127.0.0.1:27017/sandbox-api'
 };
 
 // Export configuration object

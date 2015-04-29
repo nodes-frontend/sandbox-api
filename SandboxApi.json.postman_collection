@@ -1,6 +1,6 @@
 {
 	"id": "b954d82c-1de4-6b71-18c7-2d110a1fdfb8",
-	"name": "Dummy Api",
+	"name": "Sandbox Api",
 	"description": "",
 	"order": [],
 	"folders": [
@@ -14,7 +14,7 @@
 				"89fdab39-4e74-9cf3-f7ff-74bfa84c38c6",
 				"40b6cad5-7753-2f77-0ff6-2cc3922e7014"
 			],
-			"collection_name": "Dummy Api",
+			"collection_name": "Sandbox Api",
 			"collection_owner": 0,
 			"collection_id": "b954d82c-1de4-6b71-18c7-2d110a1fdfb8",
 			"owner": "13799"
@@ -34,7 +34,7 @@
 				"a0b6fe13-8a60-fb26-7465-e67e9e296b07",
 				"898eef80-0ed7-6c46-ae29-2967242c9e4c"
 			],
-			"collection_name": "Dummy Api",
+			"collection_name": "Sandbox Api",
 			"collection_owner": 0,
 			"collection_id": "b954d82c-1de4-6b71-18c7-2d110a1fdfb8",
 			"collection": "b954d82c-1de4-6b71-18c7-2d110a1fdfb8",
@@ -53,7 +53,7 @@
 				"61ce62db-7702-ca0e-c6c1-64847f66bd7b",
 				"4e22e109-3d5c-c371-f16f-4d76cf20d50f"
 			],
-			"collection_name": "Dummy Api",
+			"collection_name": "Sandbox Api",
 			"collection_owner": 0,
 			"collection_id": "b954d82c-1de4-6b71-18c7-2d110a1fdfb8",
 			"owner": "13799",
@@ -79,26 +79,7 @@
 				"id": ""
 			},
 			"method": "GET",
-			"data": [
-				{
-					"key": "headquarter_id",
-					"value": "89",
-					"type": "text",
-					"enabled": true
-				},
-				{
-					"key": "name",
-					"value": "Danbolig hq lorem",
-					"type": "text",
-					"enabled": true
-				},
-				{
-					"key": "parent_id",
-					"value": "7",
-					"type": "text",
-					"enabled": true
-				}
-			],
+			"data": [],
 			"dataMode": "params",
 			"version": 2,
 			"tests": "",

@@ -1,9 +1,9 @@
 {
-  "name": "dummy-api",
-  "version": "0.0.0",
-  "description": "",
+  "name": "sandbox-api",
+  "version": "1.0.0",
+  "description": "Express + Mongoose + MongoDB based REST API that follows the Nodes API Standards.",
   "author": {
-    "name": "Dennis Haulund Nielsen"
+    "name": "nodes-galactic"
   },
   "private": true,
   "main": "index.js",

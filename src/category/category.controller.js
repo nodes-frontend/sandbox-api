@@ -1,8 +1,8 @@
 /**
  * Category controller.
  *
- * @author    Dennis Haulund Nielsen
- * @copyright Copyright (c) 2015, Dennis Haulund Nielsen
+ * @author    nodes-galactic
+ * @copyright Copyright (c) 2015, nodes-galactic
  * @license	  The MIT License {@link http://opensource.org/licenses/MIT}
  */
 'use strict';
